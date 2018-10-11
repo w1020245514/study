@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("终于配置好了！");
         System.out.println("开始学习数据结构和算法了");
+        System.out.println("好好学习，天天向上");
     }
 }
